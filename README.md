@@ -58,8 +58,5 @@ Mining Engineer | Learner | Strategic Thinker
 [GitHub Profile](https://github.com/Mawriz)
 ---
 
-## 📷 Screenshots (Optional)
-If you'd like to add screenshots, save images in your repo and link them like so:
-```markdown
-![Phase 1](./screenshots/phase1.png)
-![Phase 2 - Strike](./screenshots/strike-example.png)
+## 📷 Screenshots 
+
