@@ -1,6 +1,9 @@
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+
 # 🎮 Dariba – A Traditional Two-Player Strategy Game
 
-**Dariba** is a 6x6 strategic board game inspired by traditional African gameplay, blending cultural heritage with modern game mechanics. Players alternate turns in a two-phase battle of placement, logic, and tactical strikes.
+**Dariba** is a 6x6 strategic board game inspired by traditional African gameplay. It blends cultural heritage with modern game mechanics. Players alternate turns in a two-phase battle of placement, logic, and tactical strikes.
+
 ![Dariba Board Preview](https://github.com/Mawriz/dariba-game/blob/main/screenshots/Dariba_Preview.png) 
 ---
 ## 🔗 Play It Now
@@ -58,5 +61,13 @@ Mining Engineer | Learner | Strategic Thinker
 [GitHub Profile](https://github.com/Mawriz)
 ---
 
-## 📷 Screenshots 
+## 🔐 License
+
+This game is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+You may use, share, and remix this project for personal and educational purposes.  
+**Commercial use is not allowed** without written permission.
+
+📄 [View the license](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
