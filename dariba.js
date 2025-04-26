@@ -447,4 +447,3 @@ function getLineLength(r, c, player) {
 
     return maxLength;
 }
-
